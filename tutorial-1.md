@@ -43,6 +43,12 @@ But I omitted to put in the .md, and that causes all kinds of problems.
 So worth making that much larger, as part of the heading, not just in ordinary text.
 Also it is essential to write something before you commit, 
 I discovered, as if you don't put in any content it seems to make editing it later impossible!
+So, make that point under the point 4.
+
+Point 6 could do with an illustration, to be clearer.
+Same point as above, about the space under the Next link.
+
+
 
 
 
