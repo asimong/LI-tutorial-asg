@@ -24,3 +24,8 @@ I'm not against this in principle, but one or two things seem more or less impor
 - I would much rather use open source software hosted by coops with servers running on renewable energy.
 
 I hope to go on to creating notes on the tutorial itself. Eat your own dogfood, eh!
+
+See
+- [[tutorial-1]]
+- [[tutorial-2]]
+- 
