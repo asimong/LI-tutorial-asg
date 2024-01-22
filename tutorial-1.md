@@ -16,3 +16,7 @@ but it could be helpful if you're trying to get back to where you left off.
 
 The [Background and motivation page](https://makeitmarkdown.flowershow.app/learn/background)
 has some unexpected back-ticks around “# This is a Heading” and “**This text is bold**”.
+The rest of this page is generally helpful.
+At the end of the page, the link to Next has no space underneath. Some space might help the link to be easily seen.
+
+So, on to [Tutorial 1 itself](https://makeitmarkdown.flowershow.app/learn/tutorial-1).
