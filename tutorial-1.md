@@ -20,3 +20,6 @@ The rest of this page is generally helpful.
 At the end of the page, the link to Next has no space underneath. Some space might help the link to be easily seen.
 
 So, on to [Tutorial 1 itself](https://makeitmarkdown.flowershow.app/learn/tutorial-1).
+Near the top it says
+> Below is a screenshot of how the final website will look like:
+
