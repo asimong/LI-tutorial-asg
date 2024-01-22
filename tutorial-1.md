@@ -23,3 +23,11 @@ So, on to [Tutorial 1 itself](https://makeitmarkdown.flowershow.app/learn/tutori
 Near the top it says
 > Below is a screenshot of how the final website will look like:
 
+I'd say this is a little misleading, as what the final site looks like will depend on what is entered,
+and the instructions don't explicitly tell you to enter that (complete with some “Lorem ipsum” text).
+How about saying that it will depend on what you enter?
+
+I managed the “Setting up a website” part fine. It's quite involved, but manageable.
+Likewise with the “Editing a page on your website”.
+
+
