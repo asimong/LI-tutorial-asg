@@ -13,3 +13,6 @@ when we are actually talking Flowershow as the thing us learners are interacting
 The [Introduction](https://makeitmarkdown.flowershow.app/learn/introduction)
 has a table of contents — not sure whether this is really needed, 
 but it could be helpful if you're trying to get back to where you left off.
+
+The [Background and motivation page](https://makeitmarkdown.flowershow.app/learn/background)
+has some unexpected back-ticks around “# This is a Heading” and “**This text is bold**”.
