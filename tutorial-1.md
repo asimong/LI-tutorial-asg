@@ -29,5 +29,20 @@ How about saying that it will depend on what you enter?
 
 I managed the “Setting up a website” part fine. It's quite involved, but manageable.
 Likewise with the “Editing a page on your website”.
+The wording of “Commit” is very unfamiliar to non-coders, and could be felt as pretty offputting,
+as all other common editing systems work with “Save”.
+So worth more of a long explanation of that, inline.
+
+Now is where I came unstuck, on “Add a single Markdown-based page”.
+First to note is that, sure, if your window is wide enough, it shows “Add file”, 
+but if your window is too narrow, that changes to a simple "+".
+Worth a screenshot of both here.
+
+Then, sure, it says “At the end of your file name, make sure to add '.md'. For example, 'about.md'.”
+But I omitted to put in the .md, and that causes all kinds of problems.
+So worth making that much larger, as part of the heading, not just in ordinary text.
+Also it is essential to write something before you commit, 
+I discovered, as if you don't put in any content it seems to make editing it later impossible!
+
 
 
