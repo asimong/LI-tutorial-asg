@@ -1,6 +1,12 @@
 # Tutorial 2 notes
 ## These relate to the [Make It Markdown Tutorial 2](https://makeitmarkdown.flowershow.app/learn/tutorial-2)
 
+My [index is here](https://github.com/asimong/LI-tutorial-asg) (that's the direct github link)
+* or with the double-square-bracket link to [[README]]
+
+Note that the double-square-bracket link works in Flowershow, but not in the native GitHub text.
+I'd say that is an unfortunately confusing problem, and a serious compromise of usability.
+
 Same point as in [[Tutorial-1]] about what the final website will look like.
 
 First point to note … (BOOOOOO!) is that the [GitHub Desktop site](https://desktop.github.com/) **DOESN'T SUPPORT LINUX**!!!
