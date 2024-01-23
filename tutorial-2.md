@@ -7,7 +7,7 @@ My [index is here](https://github.com/asimong/LI-tutorial-asg) (that's the direc
 Note that the double-square-bracket link works in Flowershow, but not in the native GitHub text.
 I'd say that is an unfortunately confusing problem, and a serious compromise of usability.
 
-Same point as in [[Tutorial-1]] about what the final website will look like.
+Same point as in [[tutorial-1]] about what the final website will look like.
 
 First point to note … (BOOOOOO!) is that the [GitHub Desktop site](https://desktop.github.com/) **DOESN'T SUPPORT LINUX**!!!
 Come on, now, please!
