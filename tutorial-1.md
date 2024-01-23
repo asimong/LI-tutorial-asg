@@ -55,6 +55,11 @@ Point 6 could do with an illustration, to be clearer.
 Same point as above, about the space under the Next link.
 
 
+----
 
+On to [[tutorial-2]] (with double-square-brackets)
+
+
+----
 
 
