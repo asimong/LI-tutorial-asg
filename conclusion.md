@@ -25,6 +25,8 @@ That's what usability testing with real representative users is all about!
 
 Back to the [[README]] (which is an index)
 
+
 ----
 
-.
+
+*end*
