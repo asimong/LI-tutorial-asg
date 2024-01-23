@@ -17,7 +17,9 @@ The initial instructions at the top don't work anymore, but [down in one of the 
 
 ----
 
-Onwards to [[tutorial-2]]!
+Back to
+* [[tutorial-1]] or
+* [[README]]
 
 
 ----
