@@ -25,7 +25,13 @@ I'm not against this in principle, but one or two things seem more or less impor
 
 I hope to go on to creating notes on the tutorial itself. Eat your own dogfood, eh!
 
+----
+
 See
 - [[tutorial-1]]
 - [[tutorial-2]]
 - [[conclusion]]
+
+----
+
+.
