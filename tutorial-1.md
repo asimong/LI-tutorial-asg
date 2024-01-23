@@ -1,7 +1,8 @@
 # Tutorial 1 notes
 ## These relate to the README, introduction, background, and [Make It Markdown Tutorial 1](https://makeitmarkdown.flowershow.app/learn/tutorial-1)
 
-My [index is here](https://github.com/asimong/LI-tutorial-asg)
+My [index is here](https://github.com/asimong/LI-tutorial-asg) (that's the direct github link)
+* or maybe here with the double-square-bracket link to [[README]]?
 
 I've noticed the [PortalJS tutorial](https://portaljs.org/blog/create-a-website-from-scratch) 
 and I'm wondering how much has just been lifted from there.
