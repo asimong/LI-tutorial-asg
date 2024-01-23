@@ -2,7 +2,7 @@
 ## These relate to the README, introduction, background, and [Make It Markdown Tutorial 1](https://makeitmarkdown.flowershow.app/learn/tutorial-1)
 
 My [index is here](https://github.com/asimong/LI-tutorial-asg) (that's the direct github link)
-* or with the double-square-bracket link to [[README]]
+* or with the double-square-bracket link straight to the flowershow version: [[README]]
 
 Note that the double-square-bracket link works in Flowershow, but not in the native GitHub text.
 I'd say that is an unfortunately confusing problem, and a serious compromise of usability.
